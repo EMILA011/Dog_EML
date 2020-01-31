@@ -1,0 +1,11 @@
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Dog\Dog\bin\Debug\netcoreapp3.1\Dog.exe
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Dog\Dog\bin\Debug\netcoreapp3.1\Dog.deps.json
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Dog\Dog\bin\Debug\netcoreapp3.1\Dog.runtimeconfig.json
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Dog\Dog\bin\Debug\netcoreapp3.1\Dog.runtimeconfig.dev.json
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Dog\Dog\bin\Debug\netcoreapp3.1\Dog.dll
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Dog\Dog\bin\Debug\netcoreapp3.1\Dog.pdb
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Dog\Dog\obj\Debug\netcoreapp3.1\Dog.csprojAssemblyReference.cache
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Dog\Dog\obj\Debug\netcoreapp3.1\Dog.AssemblyInfoInputs.cache
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Dog\Dog\obj\Debug\netcoreapp3.1\Dog.AssemblyInfo.cs
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Dog\Dog\obj\Debug\netcoreapp3.1\Dog.dll
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PROJECT1\Dog\Dog\obj\Debug\netcoreapp3.1\Dog.pdb
